@@ -35,7 +35,7 @@
   --fg-secondary: hsl(0 0% 100% / 0.05);
   --chat-bubble-bg: rgba(255, 255, 255, 0.03);
   --chat-bubble-bg-self: rgb(var(--accent), 0.15);
-  --chat-bubble-padding: 40px 14px;
+  --chat-bubble-padding: 10px 14px;
   --chat-bubble-display: inline-block;
   --user-area: calc(var(--server-size) + 175px);
   --toolbar-height: 74px;
@@ -44,9 +44,9 @@
   --unread-colour: 255 255 255;
   --backdrop-background: var(--bg-tertiary);
   --backdrop-blur: 10px;
-  --channel-height: 40px;
-  --member-height: 54px;
-  --dm-height: 56px;
+  --channel-height: 30px;
+  --member-height: 44px;
+  --dm-height: 46px;
   --scrollbar-background: rgb(255 255 255 / 0.05);
   --scrollbar-background-hover: rgb(255 255 255 / 0.1);
   --scrollbar-background-active: rgb(255 255 255 / 0.15);
